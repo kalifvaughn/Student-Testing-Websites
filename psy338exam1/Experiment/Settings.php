@@ -4,7 +4,7 @@
     Copyright 2012-2014 Mikey Garcia & Nate Kornell
  */
     #### setting experiment variables ####
-    $experimentName   = 'PSY 337 Quiz';            // Recorded in datafile and can be useful
+    $experimentName   = 'PSY 338 Quiz';            // Recorded in datafile and can be useful
     $loginCounterName = '1.txt';                // Change to restart condition cycling
     $doDemographics   = FALSE;                  // Can be TRUE or FALSE
     $doInstructions   = FALSE;
@@ -36,7 +36,7 @@
     $showConditionSelector = FALSE;              // Show (TRUE) or hide (FALSE) the condition selector at login?
     $useConditionNames     = FALSE;              // Use the entry under "Column Description" rather than "Number" in the condition selector
     $showConditionInfo     = FALSE;              // Show the stimuli and procedure file for each condition when hovering over the options
-    $welcome        = 'Welcome to the PSY 337 Quiz Site!';
+    $welcome        = 'Welcome to the PSY 338 Quiz Site!';
     $expDescription = '<p> The questions are <b><u>difficult</u></b>; just try your best and <u><b>respond to each question</b></u>!</p>';
     $askForLogin    = '<p> Press the button below to start the quiz.</p>';
 
